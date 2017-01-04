@@ -6,6 +6,8 @@
   font-size: 18px;
   background-color: #e1EE33;
   padding-left: 8px;
+  border: solid black 3px;
+  margin: 10px;
 }
 
 h1{
@@ -18,4 +20,5 @@ img{
   float:left;
   width: 250px;
   height: 300px;
+  padding: 10px;
 }
