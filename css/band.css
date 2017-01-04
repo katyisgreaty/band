@@ -1,0 +1,15 @@
+.sidebar{
+  width: 20%;
+  float: right;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 18px;
+  background-color: #e1EE33;
+  padding-left: 8px;
+}
+
+h1{
+  text-align: center;
+  font-size: 70px;
+  color: blue;
+}
