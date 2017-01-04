@@ -13,3 +13,9 @@ h1{
   font-size: 70px;
   color: blue;
 }
+
+img{
+  float:left;
+  width: 250px;
+  height: 300px;
+}
